@@ -1,3 +1,14 @@
+NBDEV - colorTraktor project.
+Please Go Away while under development phase.
+
+Java 1.8
+SPRING BOOT - [1.1.5.]
+SPRING SECURITY - [4.0.4.]
+HIBERNATE
+FILE UPLOAD - [commons-fileupload_1.3.1]
+
+
+
 springboot-angularjs-demo
 =========================
 
